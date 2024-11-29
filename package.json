@@ -1,0 +1,14 @@
+{
+  "name": "bug-mesh-compose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mesh-compose"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@graphql-mesh/compose-cli": "^1.2.6"
+  }
+}
